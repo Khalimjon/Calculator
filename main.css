@@ -1,0 +1,23 @@
+body {
+    background-color: greenyellow;
+}
+.calculator {
+    background-color: aqua;
+    width: 148px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.calculate-area input {
+    padding: 5px 0;
+    border: 2px gray solid;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 148px;
+}
+
+.field input {
+    width: 34px;
+    padding: 2px;
+    margin-bottom: 4px;
+}
